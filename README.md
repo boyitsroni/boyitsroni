@@ -1,0 +1,5 @@
+- 👋 Hi, I’m cd!
+- 👀 I’m interested in game development & graphic design.
+- 🌱 I’m currently studying graphic design course work in a technogloy college.
+- 💞️ I’m looking to collaborate on game development in unity.
+- 📫 How to reach me - boyitsroni@gmail.com
