@@ -6,4 +6,4 @@
 **Telegram:** ``t.me/hellaboy``<br>
 
 # ● About Me
-**About Me:** ``15 y.o Graphic Designer from Sheffield, United Kingdom``<br>
+**About Me:** 15 y.o Graphic Designer from Sheffield, United Kingdom <br>
