@@ -2,7 +2,7 @@
 (learning) html & java developer <br>
 
 # ○ Social
-**Discord:** ``ronicosidk#0001``<br>
+**Discord:** ``roni#4851``<br>
 **Telegram:** ``t.me/hellaboy``<br>
 
 # ● About Me
